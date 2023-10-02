@@ -1,12 +1,17 @@
 # Tello_UP_Adapter
 hardware design files for UP Xtreme port adapter for Tello Robot
 
+
+<p align="center">
+  <img width="100%" src="readme-visuals/up-adapter-3d-2.png">
+</p>
+<br>
 <p align="center">
   <img width="100%" src="readme-visuals/up_adapter_top.png">
 </p>
 <br>
 <p align="center">
-  <img width="100%" src="readme-visuals/up-adapter-3d-2.png">
+  <img width="100%" src="readme-visuals/soldered-adapter-on-upx.png">
 </p>
 <br>
 <p align="center">

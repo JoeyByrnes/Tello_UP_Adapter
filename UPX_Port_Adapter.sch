@@ -185,11 +185,11 @@
 </layers>
 <schematic xreflabel="%F%N/%S.%C%R" xrefpart="/%S.%C%R">
 <libraries>
-<library name="UPX_Port_Adapter">
+<library name="UPX_Port_Adapter" urn="urn:adsk.eagle:library:37570774">
 <description>Generated from &lt;b&gt;UPX_Port_Adapter.sch&lt;/b&gt;&lt;p&gt;
 by exp-lbrs.ulp</description>
 <packages>
-<package name="RCL_C0603">
+<package name="RCL_C0603" urn="urn:adsk.eagle:footprint:37570776/1" library_version="2">
 <description>&lt;b&gt;CAPACITOR&lt;/b&gt;</description>
 <wire x1="-1.473" y1="0.983" x2="1.473" y2="0.983" width="0.0508" layer="39"/>
 <wire x1="1.473" y1="0.983" x2="1.473" y2="-0.983" width="0.0508" layer="39"/>
@@ -205,7 +205,7 @@ by exp-lbrs.ulp</description>
 <text x="-0.635" y="0.635" size="1.27" layer="25">&gt;NAME</text>
 <text x="-0.635" y="-1.905" size="1.27" layer="27">&gt;VALUE</text>
 </package>
-<package name="SM02B-GHS-TB_CONN_SM02BGHSTB_JST">
+<package name="SM02B-GHS-TB_CONN_SM02BGHSTB_JST" urn="urn:adsk.eagle:footprint:37570783/1" library_version="2">
 <wire x1="-2.8702" y1="-2.032" x2="2.8702" y2="-2.032" width="0.1524" layer="51"/>
 <wire x1="2.8702" y1="-2.032" x2="2.8702" y2="2.0066" width="0.1524" layer="51"/>
 <wire x1="2.8702" y1="2.0066" x2="-2.8702" y2="2.0066" width="0.1524" layer="51"/>
@@ -219,7 +219,7 @@ by exp-lbrs.ulp</description>
 <text x="-1.7272" y="1.7018" size="1.27" layer="21" ratio="6" rot="SR0">&gt;Value</text>
 <text x="-3.2766" y="1.7018" size="1.27" layer="27" ratio="6" rot="SR0">&gt;Name</text>
 </package>
-<package name="SM07B-GHS-TB_LF__SN__JST_SM07B-GHS-TB(LF)(SN)">
+<package name="SM07B-GHS-TB_LF__SN__JST_SM07B-GHS-TB(LF)(SN)" urn="urn:adsk.eagle:footprint:37570780/1" library_version="2">
 <circle x="-3.75" y="3.1" radius="0.1" width="0.2" layer="21"/>
 <wire x1="-6" y1="-2.45" x2="-6" y2="1.6" width="0.127" layer="51"/>
 <wire x1="-6" y1="1.6" x2="6" y2="1.6" width="0.127" layer="51"/>
@@ -250,7 +250,7 @@ by exp-lbrs.ulp</description>
 <text x="-6.0029" y="3.501690625" size="1.016490625" layer="25">&gt;NAME</text>
 <text x="-6.003759375" y="-4.252659375" size="1.016640625" layer="27">&gt;VALUE</text>
 </package>
-<package name="SM04B-GHS-TB_LF__SN_-_JST_SM04B-GHS-TB(LF)(SN)-">
+<package name="SM04B-GHS-TB_LF__SN_-_JST_SM04B-GHS-TB(LF)(SN)-" urn="urn:adsk.eagle:footprint:37570782/1" library_version="2">
 <circle x="-1.8" y="3.675" radius="0.1" width="0.2" layer="21"/>
 <circle x="-1.8" y="2.675" radius="0.1" width="0.2" layer="51"/>
 <wire x1="-4.125" y1="-2.025" x2="-4.125" y2="2.025" width="0.127" layer="51"/>
@@ -275,7 +275,7 @@ by exp-lbrs.ulp</description>
 <text x="-4.507509375" y="4.0818" size="1.27211875" layer="25">&gt;NAME</text>
 <text x="-4.502790625" y="-4.00248125" size="1.270790625" layer="27">&gt;VALUE</text>
 </package>
-<package name="PINHEAD_2X20">
+<package name="PINHEAD_2X20" urn="urn:adsk.eagle:footprint:37570779/1" library_version="2">
 <description>&lt;b&gt;PIN HEADER&lt;/b&gt;</description>
 <wire x1="-25.4" y1="-1.905" x2="-24.765" y2="-2.54" width="0.1524" layer="21"/>
 <wire x1="-24.765" y1="-2.54" x2="-23.495" y2="-2.54" width="0.1524" layer="21"/>
@@ -501,7 +501,7 @@ by exp-lbrs.ulp</description>
 <text x="-25.4" y="3.175" size="1.27" layer="25" ratio="10">&gt;NAME</text>
 <text x="-25.4" y="-4.445" size="1.27" layer="27">&gt;VALUE</text>
 </package>
-<package name="PINHEAD2_2X20/90">
+<package name="PINHEAD2_2X20/90" urn="urn:adsk.eagle:footprint:37570777/1" library_version="2">
 <description>&lt;b&gt;PIN HEADER&lt;/b&gt;</description>
 <wire x1="-25.4" y1="-1.905" x2="-22.86" y2="-1.905" width="0.1524" layer="51"/>
 <wire x1="-22.86" y1="-1.905" x2="-22.86" y2="0.635" width="0.1524" layer="51"/>
@@ -707,7 +707,7 @@ by exp-lbrs.ulp</description>
 <text x="-26.035" y="-3.81" size="1.27" layer="25" ratio="10" rot="R90">&gt;NAME</text>
 <text x="27.305" y="-3.81" size="1.27" layer="27" rot="R90">&gt;VALUE</text>
 </package>
-<package name="RCL_R0603">
+<package name="RCL_R0603" urn="urn:adsk.eagle:footprint:37570775/1" library_version="2">
 <description>&lt;b&gt;RESISTOR&lt;/b&gt;</description>
 <wire x1="-0.432" y1="-0.356" x2="0.432" y2="-0.356" width="0.1524" layer="51"/>
 <wire x1="0.432" y1="0.356" x2="-0.432" y2="0.356" width="0.1524" layer="51"/>
@@ -723,7 +723,7 @@ by exp-lbrs.ulp</description>
 <text x="-0.635" y="0.635" size="1.27" layer="25">&gt;NAME</text>
 <text x="-0.635" y="-1.905" size="1.27" layer="27">&gt;VALUE</text>
 </package>
-<package name="SM05B-SURS-TF_LF__SN__SM05BSURSTFLFSN">
+<package name="SM05B-SURS-TF_LF__SN__SM05BSURSTFLFSN" urn="urn:adsk.eagle:footprint:37570781/1" library_version="2">
 <description>&lt;b&gt;SM05B-SURS-TF(LF)(SN)-2&lt;/b&gt;&lt;br&gt;</description>
 <wire x1="-3.1" y1="0.875" x2="3.1" y2="0.875" width="0.2" layer="51"/>
 <wire x1="3.1" y1="0.875" x2="3.1" y2="-0.875" width="0.2" layer="51"/>
@@ -750,7 +750,7 @@ by exp-lbrs.ulp</description>
 <text x="0" y="-0.175" size="1.27" layer="25" align="center">&gt;NAME</text>
 <text x="0" y="-0.175" size="1.27" layer="27" align="center">&gt;VALUE</text>
 </package>
-<package name="PINHEAD-CUSTOM_20X20">
+<package name="PINHEAD-CUSTOM_20X20" urn="urn:adsk.eagle:footprint:37570778/1" library_version="2">
 <description>&lt;b&gt;PIN HEADER&lt;/b&gt;</description>
 <rectangle x1="-24.384" y1="1.016" x2="-23.876" y2="1.524" layer="51"/>
 <rectangle x1="-24.384" y1="3.556" x2="-23.876" y2="4.064" layer="51"/>
@@ -1553,7 +1553,7 @@ by exp-lbrs.ulp</description>
 <pad name="399" x="24.13" y="-24.13" drill="1.016" shape="octagon"/>
 <pad name="400" x="24.13" y="-21.59" drill="1.016" shape="octagon"/>
 </package>
-<package name="NLSX3012DR2G_SOIC-8_NB_ONS">
+<package name="NLSX3012DR2G_SOIC-8_NB_ONS" urn="urn:adsk.eagle:footprint:37570784/1" library_version="2">
 <wire x1="-1.9558" y1="1.651" x2="-1.9558" y2="2.159" width="0.1524" layer="51"/>
 <wire x1="-1.9558" y1="2.159" x2="-3.0988" y2="2.159" width="0.1524" layer="51"/>
 <wire x1="-3.0988" y1="2.159" x2="-3.0988" y2="1.651" width="0.1524" layer="51"/>
@@ -1606,8 +1606,66 @@ by exp-lbrs.ulp</description>
 <text x="-3.2766" y="-0.635" size="1.27" layer="27" ratio="6" rot="SR0">&gt;Name</text>
 </package>
 </packages>
+<packages3d>
+<package3d name="RCL_C0603" urn="urn:adsk.eagle:package:37570799/2" type="model" library_version="2">
+<description>&lt;b&gt;CAPACITOR&lt;/b&gt;</description>
+<packageinstances>
+<packageinstance name="RCL_C0603"/>
+</packageinstances>
+</package3d>
+<package3d name="SM02B-GHS-TB_CONN_SM02BGHSTB_JST" urn="urn:adsk.eagle:package:37570806/2" type="model" library_version="2">
+<packageinstances>
+<packageinstance name="SM02B-GHS-TB_CONN_SM02BGHSTB_JST"/>
+</packageinstances>
+</package3d>
+<package3d name="SM07B-GHS-TB_LF__SN__JST_SM07B-GHS-TB(LF)(SN)" urn="urn:adsk.eagle:package:37570803/2" type="model" library_version="2">
+<packageinstances>
+<packageinstance name="SM07B-GHS-TB_LF__SN__JST_SM07B-GHS-TB(LF)(SN)"/>
+</packageinstances>
+</package3d>
+<package3d name="SM04B-GHS-TB_LF__SN_-_JST_SM04B-GHS-TB(LF)(SN)-" urn="urn:adsk.eagle:package:37570805/2" type="model" library_version="2">
+<packageinstances>
+<packageinstance name="SM04B-GHS-TB_LF__SN_-_JST_SM04B-GHS-TB(LF)(SN)-"/>
+</packageinstances>
+</package3d>
+<package3d name="PINHEAD_2X20" urn="urn:adsk.eagle:package:37570802/3" type="model" library_version="2">
+<description>&lt;b&gt;PIN HEADER&lt;/b&gt;</description>
+<packageinstances>
+<packageinstance name="PINHEAD_2X20"/>
+</packageinstances>
+</package3d>
+<package3d name="PINHEAD2_2X20/90" urn="urn:adsk.eagle:package:37570800/2" type="model" library_version="2">
+<description>&lt;b&gt;PIN HEADER&lt;/b&gt;</description>
+<packageinstances>
+<packageinstance name="PINHEAD2_2X20/90"/>
+</packageinstances>
+</package3d>
+<package3d name="RCL_R0603" urn="urn:adsk.eagle:package:37570798/2" type="model" library_version="2">
+<description>&lt;b&gt;RESISTOR&lt;/b&gt;</description>
+<packageinstances>
+<packageinstance name="RCL_R0603"/>
+</packageinstances>
+</package3d>
+<package3d name="SM05B-SURS-TF_LF__SN__SM05BSURSTFLFSN" urn="urn:adsk.eagle:package:37570804/2" type="model" library_version="2">
+<description>&lt;b&gt;SM05B-SURS-TF(LF)(SN)-2&lt;/b&gt;&lt;br&gt;</description>
+<packageinstances>
+<packageinstance name="SM05B-SURS-TF_LF__SN__SM05BSURSTFLFSN"/>
+</packageinstances>
+</package3d>
+<package3d name="PINHEAD-CUSTOM_20X20" urn="urn:adsk.eagle:package:37570801/1" type="box" library_version="2">
+<description>&lt;b&gt;PIN HEADER&lt;/b&gt;</description>
+<packageinstances>
+<packageinstance name="PINHEAD-CUSTOM_20X20"/>
+</packageinstances>
+</package3d>
+<package3d name="NLSX3012DR2G_SOIC-8_NB_ONS" urn="urn:adsk.eagle:package:37570807/3" type="model" library_version="2">
+<packageinstances>
+<packageinstance name="NLSX3012DR2G_SOIC-8_NB_ONS"/>
+</packageinstances>
+</package3d>
+</packages3d>
 <symbols>
-<symbol name="RCL_C-EU">
+<symbol name="RCL_C-EU" urn="urn:adsk.eagle:symbol:37570787/1" library_version="2">
 <rectangle x1="-2.032" y1="-2.032" x2="2.032" y2="-1.524" layer="94"/>
 <rectangle x1="-2.032" y1="-1.016" x2="2.032" y2="-0.508" layer="94"/>
 <wire x1="0" y1="0" x2="0" y2="-0.508" width="0.1524" layer="94"/>
@@ -1617,10 +1675,10 @@ by exp-lbrs.ulp</description>
 <text x="1.524" y="0.381" size="1.778" layer="95">&gt;NAME</text>
 <text x="1.524" y="-4.699" size="1.778" layer="96">&gt;VALUE</text>
 </symbol>
-<symbol name="FRAMES_FRAME_A_L">
+<symbol name="FRAMES_FRAME_A_L" urn="urn:adsk.eagle:symbol:37570791/1" library_version="2">
 <frame x1="0" y1="0" x2="279.4" y2="215.9" columns="6" rows="5" layer="94" border-bottom="no"/>
 </symbol>
-<symbol name="FRAMES_DOCFIELD">
+<symbol name="FRAMES_DOCFIELD" urn="urn:adsk.eagle:symbol:37570792/1" library_version="2">
 <wire x1="0" y1="0" x2="71.12" y2="0" width="0.1016" layer="94"/>
 <wire x1="101.6" y1="15.24" x2="87.63" y2="15.24" width="0.1016" layer="94"/>
 <wire x1="0" y1="0" x2="0" y2="5.08" width="0.1016" layer="94"/>
@@ -1649,12 +1707,12 @@ by exp-lbrs.ulp</description>
 <text x="1.27" y="11.43" size="2.54" layer="94">Document Number:</text>
 <text x="17.78" y="19.05" size="2.54" layer="94">&gt;DRAWING_NAME</text>
 </symbol>
-<symbol name="SUPPLY1_GND">
+<symbol name="SUPPLY1_GND" urn="urn:adsk.eagle:symbol:37570785/1" library_version="2">
 <wire x1="-1.905" y1="0" x2="1.905" y2="0" width="0.254" layer="94"/>
 <pin name="GND" x="0" y="2.54" visible="off" length="short" direction="sup" rot="R270"/>
 <text x="-2.54" y="-2.54" size="1.778" layer="96">&gt;VALUE</text>
 </symbol>
-<symbol name="SM02B-GHS-TB_CONN_SM02BGHSTB">
+<symbol name="SM02B-GHS-TB_CONN_SM02BGHSTB" urn="urn:adsk.eagle:symbol:37570796/1" library_version="2">
 <wire x1="10.16" y1="0" x2="5.08" y2="0" width="0.1524" layer="94"/>
 <wire x1="10.16" y1="-2.54" x2="5.08" y2="-2.54" width="0.1524" layer="94"/>
 <wire x1="10.16" y1="0" x2="8.89" y2="0.8382" width="0.1524" layer="94"/>
@@ -1669,7 +1727,7 @@ by exp-lbrs.ulp</description>
 <pin name="2" x="0" y="-2.54" visible="pad" length="middle" direction="pas"/>
 <text x="4.1656" y="5.3086" size="2.0828" layer="95" ratio="6" rot="SR0">&gt;Name</text>
 </symbol>
-<symbol name="SM07B-GHS-TB_LF__SN__SM07B-GHS-TB(LF)(SN)">
+<symbol name="SM07B-GHS-TB_LF__SN__SM07B-GHS-TB(LF)(SN)" urn="urn:adsk.eagle:symbol:37570793/1" library_version="2">
 <wire x1="-5.08" y1="-12.7" x2="5.08" y2="-12.7" width="0.254" layer="94"/>
 <wire x1="5.08" y1="-12.7" x2="5.08" y2="12.7" width="0.254" layer="94"/>
 <wire x1="5.08" y1="12.7" x2="-5.08" y2="12.7" width="0.254" layer="94"/>
@@ -1685,7 +1743,7 @@ by exp-lbrs.ulp</description>
 <text x="-5.08391875" y="13.2182" size="1.77936875" layer="95">&gt;NAME</text>
 <text x="-5.08596875" y="-15.2579" size="1.780090625" layer="96">&gt;VALUE</text>
 </symbol>
-<symbol name="SM04B-GHS-TB_LF__SN_-_SM04B-GHS-TB(LF)(SN)-">
+<symbol name="SM04B-GHS-TB_LF__SN_-_SM04B-GHS-TB(LF)(SN)-" urn="urn:adsk.eagle:symbol:37570795/1" library_version="2">
 <wire x1="-5.08" y1="-10.16" x2="-5.08" y2="7.62" width="0.254" layer="94"/>
 <wire x1="-5.08" y1="7.62" x2="5.08" y2="7.62" width="0.254" layer="94"/>
 <wire x1="5.08" y1="7.62" x2="5.08" y2="-10.16" width="0.254" layer="94"/>
@@ -1698,7 +1756,7 @@ by exp-lbrs.ulp</description>
 <text x="-5.08021875" y="7.62033125" size="1.27005" layer="95">&gt;NAME</text>
 <text x="-5.08588125" y="-12.7147" size="1.27146875" layer="96">&gt;VALUE</text>
 </symbol>
-<symbol name="PINHEAD_PINH2X20">
+<symbol name="PINHEAD_PINH2X20" urn="urn:adsk.eagle:symbol:37570790/1" library_version="2">
 <wire x1="-6.35" y1="-27.94" x2="8.89" y2="-27.94" width="0.4064" layer="94"/>
 <wire x1="8.89" y1="-27.94" x2="8.89" y2="25.4" width="0.4064" layer="94"/>
 <wire x1="8.89" y1="25.4" x2="-6.35" y2="25.4" width="0.4064" layer="94"/>
@@ -1746,7 +1804,7 @@ by exp-lbrs.ulp</description>
 <text x="-6.35" y="26.035" size="1.778" layer="95">&gt;NAME</text>
 <text x="-6.35" y="-30.48" size="1.778" layer="96">&gt;VALUE</text>
 </symbol>
-<symbol name="PINHEAD2_PINH2X20:1">
+<symbol name="PINHEAD2_PINH2X20:1" urn="urn:adsk.eagle:symbol:37570788/1" library_version="2">
 <wire x1="-6.35" y1="-27.94" x2="8.89" y2="-27.94" width="0.4064" layer="94"/>
 <wire x1="8.89" y1="-27.94" x2="8.89" y2="25.4" width="0.4064" layer="94"/>
 <wire x1="8.89" y1="25.4" x2="-6.35" y2="25.4" width="0.4064" layer="94"/>
@@ -1794,7 +1852,7 @@ by exp-lbrs.ulp</description>
 <text x="-6.35" y="26.035" size="1.778" layer="95">&gt;NAME</text>
 <text x="-6.35" y="-30.48" size="1.778" layer="96">&gt;VALUE</text>
 </symbol>
-<symbol name="RCL_R-US">
+<symbol name="RCL_R-US" urn="urn:adsk.eagle:symbol:37570786/1" library_version="2">
 <wire x1="-2.54" y1="0" x2="-2.159" y2="1.016" width="0.2032" layer="94"/>
 <wire x1="-2.159" y1="1.016" x2="-1.524" y2="-1.016" width="0.2032" layer="94"/>
 <wire x1="-1.524" y1="-1.016" x2="-0.889" y2="1.016" width="0.2032" layer="94"/>
@@ -1809,7 +1867,7 @@ by exp-lbrs.ulp</description>
 <text x="-3.81" y="1.4986" size="1.778" layer="95">&gt;NAME</text>
 <text x="-3.81" y="-3.302" size="1.778" layer="96">&gt;VALUE</text>
 </symbol>
-<symbol name="SM05B-SURS-TF_LF__SN__PCAN_VERSION">
+<symbol name="SM05B-SURS-TF_LF__SN__PCAN_VERSION" urn="urn:adsk.eagle:symbol:37570794/1" library_version="2">
 <wire x1="-10.16" y1="5.08" x2="12.7" y2="5.08" width="0.254" layer="94"/>
 <wire x1="12.7" y1="-2.54" x2="12.7" y2="5.08" width="0.254" layer="94"/>
 <wire x1="12.7" y1="-2.54" x2="-10.16" y2="-2.54" width="0.254" layer="94"/>
@@ -1824,7 +1882,7 @@ by exp-lbrs.ulp</description>
 <text x="13.462" y="0.508" size="0.6096" layer="94">CAN_L</text>
 <text x="-12.7" y="0.508" size="0.6096" layer="94">GND</text>
 </symbol>
-<symbol name="PINHEAD-CUSTOM_20X20SYMBOL">
+<symbol name="PINHEAD-CUSTOM_20X20SYMBOL" urn="urn:adsk.eagle:symbol:37570789/1" library_version="2">
 <circle x="-1.27" y="1.27" radius="0.635" width="0.254" layer="94"/>
 <circle x="-1.27" y="-1.27" radius="0.635" width="0.254" layer="94"/>
 <circle x="1.27" y="-1.27" radius="0.635" width="0.254" layer="94"/>
@@ -1867,7 +1925,7 @@ by exp-lbrs.ulp</description>
 <wire x1="-7.62" y1="-7.62" x2="-7.62" y2="7.62" width="0.254" layer="94"/>
 <text x="-6.985" y="8.255" size="1.016" layer="94">Prototyping Area</text>
 </symbol>
-<symbol name="NLSX3012DR2G_NLSX3012DR2G">
+<symbol name="NLSX3012DR2G_NLSX3012DR2G" urn="urn:adsk.eagle:symbol:37570797/1" library_version="2">
 <wire x1="7.62" y1="5.08" x2="7.62" y2="-12.7" width="0.1524" layer="94"/>
 <wire x1="7.62" y1="-12.7" x2="43.18" y2="-12.7" width="0.1524" layer="94"/>
 <wire x1="43.18" y1="-12.7" x2="43.18" y2="5.08" width="0.1524" layer="94"/>
@@ -1885,7 +1943,7 @@ by exp-lbrs.ulp</description>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="RCL_C-EU" prefix="C" uservalue="yes">
+<deviceset name="RCL_C-EU" urn="urn:adsk.eagle:component:37570810/2" prefix="C" uservalue="yes" library_version="2">
 <description>&lt;B&gt;CAPACITOR&lt;/B&gt;, European symbol</description>
 <gates>
 <gate name="G$1" symbol="RCL_C-EU" x="0" y="0"/>
@@ -1896,6 +1954,9 @@ by exp-lbrs.ulp</description>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:37570799/2"/>
+</package3dinstances>
 <technologies>
 <technology name="">
 <attribute name="POPULARITY" value="0" constant="no"/>
@@ -1905,7 +1966,7 @@ by exp-lbrs.ulp</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="FRAMES_FRAME_A_L" prefix="FRAME" uservalue="yes">
+<deviceset name="FRAMES_FRAME_A_L" urn="urn:adsk.eagle:component:37570814/1" prefix="FRAME" uservalue="yes" library_version="2">
 <description>&lt;b&gt;FRAME&lt;/b&gt; A Size , 8 1/2 x 11 INCH, Landscape&lt;p&gt;</description>
 <gates>
 <gate name="G$1" symbol="FRAMES_FRAME_A_L" x="0" y="0" addlevel="always"/>
@@ -1919,7 +1980,7 @@ by exp-lbrs.ulp</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="SUPPLY1_GND" prefix="GND">
+<deviceset name="SUPPLY1_GND" urn="urn:adsk.eagle:component:37570808/1" prefix="GND" library_version="2">
 <description>&lt;b&gt;SUPPLY SYMBOL&lt;/b&gt;</description>
 <gates>
 <gate name="1" symbol="SUPPLY1_GND" x="0" y="0"/>
@@ -1932,7 +1993,7 @@ by exp-lbrs.ulp</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="SM02B-GHS-TB_SM02BGHSTBLFSN" prefix="J">
+<deviceset name="SM02B-GHS-TB_SM02BGHSTBLFSN" urn="urn:adsk.eagle:component:37570818/2" prefix="J" library_version="2">
 <gates>
 <gate name="A" symbol="SM02B-GHS-TB_CONN_SM02BGHSTB" x="0" y="0"/>
 </gates>
@@ -1942,6 +2003,9 @@ by exp-lbrs.ulp</description>
 <connect gate="A" pin="1" pad="1"/>
 <connect gate="A" pin="2" pad="2"/>
 </connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:37570806/2"/>
+</package3dinstances>
 <technologies>
 <technology name="">
 <attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." constant="no"/>
@@ -1955,7 +2019,7 @@ by exp-lbrs.ulp</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="SM07B-GHS-TB_LF__SN__SM07B-GHS-TB(LF)(SN)" prefix="J">
+<deviceset name="SM07B-GHS-TB_LF__SN__SM07B-GHS-TB(LF)(SN)" urn="urn:adsk.eagle:component:37570815/2" prefix="J" library_version="2">
 <description>Conn Shrouded Header HDR 7 POS 1.25mm Solder RA SMD Reel</description>
 <gates>
 <gate name="G$1" symbol="SM07B-GHS-TB_LF__SN__SM07B-GHS-TB(LF)(SN)" x="0" y="0"/>
@@ -1972,6 +2036,9 @@ by exp-lbrs.ulp</description>
 <connect gate="G$1" pin="7" pad="7"/>
 <connect gate="G$1" pin="SHIELD" pad="S1 S2"/>
 </connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:37570803/2"/>
+</package3dinstances>
 <technologies>
 <technology name="">
 <attribute name="DESCRIPTION" value=" Connector Header Surface Mount, Right Angle 7 position 0.049 (1.25mm) "/>
@@ -1985,7 +2052,7 @@ by exp-lbrs.ulp</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="SM04B-GHS-TB_LF__SN_-_SM04B-GHS-TB(LF)(SN)-" prefix="J">
+<deviceset name="SM04B-GHS-TB_LF__SN_-_SM04B-GHS-TB(LF)(SN)-" urn="urn:adsk.eagle:component:37570817/2" prefix="J" library_version="2">
 <description>Conn Header Gh Side 4pos 1.25mm</description>
 <gates>
 <gate name="G$1" symbol="SM04B-GHS-TB_LF__SN_-_SM04B-GHS-TB(LF)(SN)-" x="0" y="0"/>
@@ -1999,6 +2066,9 @@ by exp-lbrs.ulp</description>
 <connect gate="G$1" pin="4" pad="4"/>
 <connect gate="G$1" pin="SHIELD" pad="SH1 SH2"/>
 </connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:37570805/2"/>
+</package3dinstances>
 <technologies>
 <technology name="">
 <attribute name="DESCRIPTION" value=" Connector Header Surface Mount, Right Angle 4 position 0.049 (1.25mm) "/>
@@ -2012,7 +2082,7 @@ by exp-lbrs.ulp</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="PINHEAD_PINHD-2X20" prefix="JP" uservalue="yes">
+<deviceset name="PINHEAD_PINHD-2X20" urn="urn:adsk.eagle:component:37570813/2" prefix="JP" uservalue="yes" library_version="2">
 <description>&lt;b&gt;PIN HEADER&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="PINHEAD_PINH2X20" x="0" y="0"/>
@@ -2061,6 +2131,9 @@ by exp-lbrs.ulp</description>
 <connect gate="A" pin="8" pad="8"/>
 <connect gate="A" pin="9" pad="9"/>
 </connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:37570802/3"/>
+</package3dinstances>
 <technologies>
 <technology name="">
 <attribute name="POPULARITY" value="0" constant="no"/>
@@ -2069,7 +2142,7 @@ by exp-lbrs.ulp</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="PINHEAD2_PINHD-2X20*?:1" prefix="JP" uservalue="yes">
+<deviceset name="PINHEAD2_PINHD-2X20*?:1" urn="urn:adsk.eagle:component:37570811/2" prefix="JP" uservalue="yes" library_version="2">
 <description>&lt;b&gt;PIN HEADER&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="PINHEAD2_PINH2X20:1" x="0" y="0"/>
@@ -2118,6 +2191,9 @@ by exp-lbrs.ulp</description>
 <connect gate="A" pin="8" pad="8"/>
 <connect gate="A" pin="9" pad="9"/>
 </connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:37570800/2"/>
+</package3dinstances>
 <technologies>
 <technology name="">
 <attribute name="POPULARITY" value="0" constant="no"/>
@@ -2126,7 +2202,7 @@ by exp-lbrs.ulp</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="RCL_R-US_" prefix="R" uservalue="yes">
+<deviceset name="RCL_R-US_" urn="urn:adsk.eagle:component:37570809/2" prefix="R" uservalue="yes" library_version="2">
 <description>&lt;B&gt;RESISTOR&lt;/B&gt;, American symbol</description>
 <gates>
 <gate name="G$1" symbol="RCL_R-US" x="0" y="0"/>
@@ -2137,6 +2213,9 @@ by exp-lbrs.ulp</description>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:37570798/2"/>
+</package3dinstances>
 <technologies>
 <technology name="">
 <attribute name="POPULARITY" value="0" constant="no"/>
@@ -2146,7 +2225,7 @@ by exp-lbrs.ulp</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="SM05B-SURS-TF_LF__SN__PCAN_CONN">
+<deviceset name="SM05B-SURS-TF_LF__SN__PCAN_CONN" urn="urn:adsk.eagle:component:37570816/2" library_version="2">
 <gates>
 <gate name="G$1" symbol="SM05B-SURS-TF_LF__SN__PCAN_VERSION" x="0" y="-2.54"/>
 </gates>
@@ -2158,25 +2237,31 @@ by exp-lbrs.ulp</description>
 <connect gate="G$1" pin="5" pad="5"/>
 <connect gate="G$1" pin="M" pad="MP1 MP2"/>
 </connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:37570804/2"/>
+</package3dinstances>
 <technologies>
 <technology name=""/>
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="PINHEAD-CUSTOM_20X20">
+<deviceset name="PINHEAD-CUSTOM_20X20" urn="urn:adsk.eagle:component:37570812/1" library_version="2">
 <gates>
 <gate name="G$1" symbol="PINHEAD-CUSTOM_20X20SYMBOL" x="0" y="0"/>
 </gates>
 <devices>
 <device name="" package="PINHEAD-CUSTOM_20X20">
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:37570801/1"/>
+</package3dinstances>
 <technologies>
 <technology name=""/>
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="NLSX3012DR2G_NLSX3012DR2G" prefix="U">
+<deviceset name="NLSX3012DR2G_NLSX3012DR2G" urn="urn:adsk.eagle:component:37570819/2" prefix="U" library_version="2">
 <gates>
 <gate name="A" symbol="NLSX3012DR2G_NLSX3012DR2G" x="0" y="0"/>
 </gates>
@@ -2192,6 +2277,9 @@ by exp-lbrs.ulp</description>
 <connect gate="A" pin="VCC" pad="8"/>
 <connect gate="A" pin="VL" pad="1"/>
 </connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:37570807/3"/>
+</package3dinstances>
 <technologies>
 <technology name="">
 <attribute name="COPYRIGHT" value="Copyright (C) 2022 Ultra Librarian. All rights reserved." constant="no"/>
@@ -2222,56 +2310,56 @@ by exp-lbrs.ulp</description>
 </class>
 </classes>
 <parts>
-<part name="FRAME1" library="UPX_Port_Adapter" deviceset="FRAMES_FRAME_A_L" device=""/>
-<part name="JP1" library="UPX_Port_Adapter" deviceset="PINHEAD_PINHD-2X20" device=""/>
-<part name="J1" library="UPX_Port_Adapter" deviceset="SM02B-GHS-TB_SM02BGHSTBLFSN" device=""/>
-<part name="J2" library="UPX_Port_Adapter" deviceset="SM02B-GHS-TB_SM02BGHSTBLFSN" device=""/>
-<part name="J3" library="UPX_Port_Adapter" deviceset="SM02B-GHS-TB_SM02BGHSTBLFSN" device=""/>
-<part name="J4" library="UPX_Port_Adapter" deviceset="SM02B-GHS-TB_SM02BGHSTBLFSN" device=""/>
-<part name="J5" library="UPX_Port_Adapter" deviceset="SM02B-GHS-TB_SM02BGHSTBLFSN" device=""/>
-<part name="J6" library="UPX_Port_Adapter" deviceset="SM02B-GHS-TB_SM02BGHSTBLFSN" device=""/>
-<part name="J7" library="UPX_Port_Adapter" deviceset="SM02B-GHS-TB_SM02BGHSTBLFSN" device=""/>
-<part name="J8" library="UPX_Port_Adapter" deviceset="SM02B-GHS-TB_SM02BGHSTBLFSN" device=""/>
-<part name="J9" library="UPX_Port_Adapter" deviceset="SM02B-GHS-TB_SM02BGHSTBLFSN" device=""/>
-<part name="U$1" library="UPX_Port_Adapter" deviceset="SM05B-SURS-TF_LF__SN__PCAN_CONN" device=""/>
-<part name="U$2" library="UPX_Port_Adapter" deviceset="SM05B-SURS-TF_LF__SN__PCAN_CONN" device=""/>
-<part name="U$3" library="UPX_Port_Adapter" deviceset="SM05B-SURS-TF_LF__SN__PCAN_CONN" device=""/>
-<part name="U$4" library="UPX_Port_Adapter" deviceset="SM05B-SURS-TF_LF__SN__PCAN_CONN" device=""/>
-<part name="U$5" library="UPX_Port_Adapter" deviceset="SM05B-SURS-TF_LF__SN__PCAN_CONN" device=""/>
-<part name="U$6" library="UPX_Port_Adapter" deviceset="SM05B-SURS-TF_LF__SN__PCAN_CONN" device=""/>
-<part name="U$7" library="UPX_Port_Adapter" deviceset="SM05B-SURS-TF_LF__SN__PCAN_CONN" device=""/>
-<part name="U$8" library="UPX_Port_Adapter" deviceset="SM05B-SURS-TF_LF__SN__PCAN_CONN" device=""/>
-<part name="GND1" library="UPX_Port_Adapter" deviceset="SUPPLY1_GND" device=""/>
-<part name="GND2" library="UPX_Port_Adapter" deviceset="SUPPLY1_GND" device=""/>
-<part name="GND3" library="UPX_Port_Adapter" deviceset="SUPPLY1_GND" device=""/>
-<part name="GND4" library="UPX_Port_Adapter" deviceset="SUPPLY1_GND" device=""/>
-<part name="GND5" library="UPX_Port_Adapter" deviceset="SUPPLY1_GND" device=""/>
-<part name="GND6" library="UPX_Port_Adapter" deviceset="SUPPLY1_GND" device=""/>
-<part name="GND7" library="UPX_Port_Adapter" deviceset="SUPPLY1_GND" device=""/>
-<part name="GND8" library="UPX_Port_Adapter" deviceset="SUPPLY1_GND" device=""/>
-<part name="U1" library="UPX_Port_Adapter" deviceset="NLSX3012DR2G_NLSX3012DR2G" device=""/>
-<part name="C1" library="UPX_Port_Adapter" deviceset="RCL_C-EU" device="C0603" value="0.1uF"/>
-<part name="C2" library="UPX_Port_Adapter" deviceset="RCL_C-EU" device="C0603" value="4.7uF"/>
-<part name="C3" library="UPX_Port_Adapter" deviceset="RCL_C-EU" device="C0603" value="0.1uF"/>
-<part name="C4" library="UPX_Port_Adapter" deviceset="RCL_C-EU" device="C0603" value="4.7uF"/>
-<part name="GND9" library="UPX_Port_Adapter" deviceset="SUPPLY1_GND" device=""/>
-<part name="GND10" library="UPX_Port_Adapter" deviceset="SUPPLY1_GND" device=""/>
-<part name="R1" library="UPX_Port_Adapter" deviceset="RCL_R-US_" device="R0603" value="2K2"/>
-<part name="R2" library="UPX_Port_Adapter" deviceset="RCL_R-US_" device="R0603" value="2K2"/>
-<part name="R3" library="UPX_Port_Adapter" deviceset="RCL_R-US_" device="R0603" value="2K2"/>
-<part name="R4" library="UPX_Port_Adapter" deviceset="RCL_R-US_" device="R0603" value="2K2"/>
-<part name="JP2" library="UPX_Port_Adapter" deviceset="PINHEAD2_PINHD-2X20*?:1" device="/90"/>
-<part name="J12" library="UPX_Port_Adapter" deviceset="SM04B-GHS-TB_LF__SN_-_SM04B-GHS-TB(LF)(SN)-" device=""/>
-<part name="U$9" library="UPX_Port_Adapter" deviceset="PINHEAD-CUSTOM_20X20" device=""/>
-<part name="GND11" library="UPX_Port_Adapter" deviceset="SUPPLY1_GND" device=""/>
-<part name="GND12" library="UPX_Port_Adapter" deviceset="SUPPLY1_GND" device=""/>
-<part name="GND13" library="UPX_Port_Adapter" deviceset="SUPPLY1_GND" device=""/>
-<part name="J10" library="UPX_Port_Adapter" deviceset="SM07B-GHS-TB_LF__SN__SM07B-GHS-TB(LF)(SN)" device=""/>
-<part name="J11" library="UPX_Port_Adapter" deviceset="SM07B-GHS-TB_LF__SN__SM07B-GHS-TB(LF)(SN)" device=""/>
-<part name="J13" library="UPX_Port_Adapter" deviceset="SM04B-GHS-TB_LF__SN_-_SM04B-GHS-TB(LF)(SN)-" device=""/>
-<part name="GND14" library="UPX_Port_Adapter" deviceset="SUPPLY1_GND" device=""/>
-<part name="R5" library="UPX_Port_Adapter" deviceset="RCL_R-US_" device="R0603" value="2K2"/>
-<part name="R6" library="UPX_Port_Adapter" deviceset="RCL_R-US_" device="R0603" value="2K2"/>
+<part name="FRAME1" library="UPX_Port_Adapter" library_urn="urn:adsk.eagle:library:37570774" deviceset="FRAMES_FRAME_A_L" device=""/>
+<part name="JP1" library="UPX_Port_Adapter" library_urn="urn:adsk.eagle:library:37570774" deviceset="PINHEAD_PINHD-2X20" device="" package3d_urn="urn:adsk.eagle:package:37570802/3"/>
+<part name="J1" library="UPX_Port_Adapter" library_urn="urn:adsk.eagle:library:37570774" deviceset="SM02B-GHS-TB_SM02BGHSTBLFSN" device="" package3d_urn="urn:adsk.eagle:package:37570806/2"/>
+<part name="J2" library="UPX_Port_Adapter" library_urn="urn:adsk.eagle:library:37570774" deviceset="SM02B-GHS-TB_SM02BGHSTBLFSN" device="" package3d_urn="urn:adsk.eagle:package:37570806/2"/>
+<part name="J3" library="UPX_Port_Adapter" library_urn="urn:adsk.eagle:library:37570774" deviceset="SM02B-GHS-TB_SM02BGHSTBLFSN" device="" package3d_urn="urn:adsk.eagle:package:37570806/2"/>
+<part name="J4" library="UPX_Port_Adapter" library_urn="urn:adsk.eagle:library:37570774" deviceset="SM02B-GHS-TB_SM02BGHSTBLFSN" device="" package3d_urn="urn:adsk.eagle:package:37570806/2"/>
+<part name="J5" library="UPX_Port_Adapter" library_urn="urn:adsk.eagle:library:37570774" deviceset="SM02B-GHS-TB_SM02BGHSTBLFSN" device="" package3d_urn="urn:adsk.eagle:package:37570806/2"/>
+<part name="J6" library="UPX_Port_Adapter" library_urn="urn:adsk.eagle:library:37570774" deviceset="SM02B-GHS-TB_SM02BGHSTBLFSN" device="" package3d_urn="urn:adsk.eagle:package:37570806/2"/>
+<part name="J7" library="UPX_Port_Adapter" library_urn="urn:adsk.eagle:library:37570774" deviceset="SM02B-GHS-TB_SM02BGHSTBLFSN" device="" package3d_urn="urn:adsk.eagle:package:37570806/2"/>
+<part name="J8" library="UPX_Port_Adapter" library_urn="urn:adsk.eagle:library:37570774" deviceset="SM02B-GHS-TB_SM02BGHSTBLFSN" device="" package3d_urn="urn:adsk.eagle:package:37570806/2"/>
+<part name="J9" library="UPX_Port_Adapter" library_urn="urn:adsk.eagle:library:37570774" deviceset="SM02B-GHS-TB_SM02BGHSTBLFSN" device="" package3d_urn="urn:adsk.eagle:package:37570806/2"/>
+<part name="U$1" library="UPX_Port_Adapter" library_urn="urn:adsk.eagle:library:37570774" deviceset="SM05B-SURS-TF_LF__SN__PCAN_CONN" device="" package3d_urn="urn:adsk.eagle:package:37570804/2"/>
+<part name="U$2" library="UPX_Port_Adapter" library_urn="urn:adsk.eagle:library:37570774" deviceset="SM05B-SURS-TF_LF__SN__PCAN_CONN" device="" package3d_urn="urn:adsk.eagle:package:37570804/2"/>
+<part name="U$3" library="UPX_Port_Adapter" library_urn="urn:adsk.eagle:library:37570774" deviceset="SM05B-SURS-TF_LF__SN__PCAN_CONN" device="" package3d_urn="urn:adsk.eagle:package:37570804/2"/>
+<part name="U$4" library="UPX_Port_Adapter" library_urn="urn:adsk.eagle:library:37570774" deviceset="SM05B-SURS-TF_LF__SN__PCAN_CONN" device="" package3d_urn="urn:adsk.eagle:package:37570804/2"/>
+<part name="U$5" library="UPX_Port_Adapter" library_urn="urn:adsk.eagle:library:37570774" deviceset="SM05B-SURS-TF_LF__SN__PCAN_CONN" device="" package3d_urn="urn:adsk.eagle:package:37570804/2"/>
+<part name="U$6" library="UPX_Port_Adapter" library_urn="urn:adsk.eagle:library:37570774" deviceset="SM05B-SURS-TF_LF__SN__PCAN_CONN" device="" package3d_urn="urn:adsk.eagle:package:37570804/2"/>
+<part name="U$7" library="UPX_Port_Adapter" library_urn="urn:adsk.eagle:library:37570774" deviceset="SM05B-SURS-TF_LF__SN__PCAN_CONN" device="" package3d_urn="urn:adsk.eagle:package:37570804/2"/>
+<part name="U$8" library="UPX_Port_Adapter" library_urn="urn:adsk.eagle:library:37570774" deviceset="SM05B-SURS-TF_LF__SN__PCAN_CONN" device="" package3d_urn="urn:adsk.eagle:package:37570804/2"/>
+<part name="GND1" library="UPX_Port_Adapter" library_urn="urn:adsk.eagle:library:37570774" deviceset="SUPPLY1_GND" device=""/>
+<part name="GND2" library="UPX_Port_Adapter" library_urn="urn:adsk.eagle:library:37570774" deviceset="SUPPLY1_GND" device=""/>
+<part name="GND3" library="UPX_Port_Adapter" library_urn="urn:adsk.eagle:library:37570774" deviceset="SUPPLY1_GND" device=""/>
+<part name="GND4" library="UPX_Port_Adapter" library_urn="urn:adsk.eagle:library:37570774" deviceset="SUPPLY1_GND" device=""/>
+<part name="GND5" library="UPX_Port_Adapter" library_urn="urn:adsk.eagle:library:37570774" deviceset="SUPPLY1_GND" device=""/>
+<part name="GND6" library="UPX_Port_Adapter" library_urn="urn:adsk.eagle:library:37570774" deviceset="SUPPLY1_GND" device=""/>
+<part name="GND7" library="UPX_Port_Adapter" library_urn="urn:adsk.eagle:library:37570774" deviceset="SUPPLY1_GND" device=""/>
+<part name="GND8" library="UPX_Port_Adapter" library_urn="urn:adsk.eagle:library:37570774" deviceset="SUPPLY1_GND" device=""/>
+<part name="U1" library="UPX_Port_Adapter" library_urn="urn:adsk.eagle:library:37570774" deviceset="NLSX3012DR2G_NLSX3012DR2G" device="" package3d_urn="urn:adsk.eagle:package:37570807/3"/>
+<part name="C1" library="UPX_Port_Adapter" library_urn="urn:adsk.eagle:library:37570774" deviceset="RCL_C-EU" device="C0603" package3d_urn="urn:adsk.eagle:package:37570799/2" value="0.1uF"/>
+<part name="C2" library="UPX_Port_Adapter" library_urn="urn:adsk.eagle:library:37570774" deviceset="RCL_C-EU" device="C0603" package3d_urn="urn:adsk.eagle:package:37570799/2" value="4.7uF"/>
+<part name="C3" library="UPX_Port_Adapter" library_urn="urn:adsk.eagle:library:37570774" deviceset="RCL_C-EU" device="C0603" package3d_urn="urn:adsk.eagle:package:37570799/2" value="0.1uF"/>
+<part name="C4" library="UPX_Port_Adapter" library_urn="urn:adsk.eagle:library:37570774" deviceset="RCL_C-EU" device="C0603" package3d_urn="urn:adsk.eagle:package:37570799/2" value="4.7uF"/>
+<part name="GND9" library="UPX_Port_Adapter" library_urn="urn:adsk.eagle:library:37570774" deviceset="SUPPLY1_GND" device=""/>
+<part name="GND10" library="UPX_Port_Adapter" library_urn="urn:adsk.eagle:library:37570774" deviceset="SUPPLY1_GND" device=""/>
+<part name="R1" library="UPX_Port_Adapter" library_urn="urn:adsk.eagle:library:37570774" deviceset="RCL_R-US_" device="R0603" package3d_urn="urn:adsk.eagle:package:37570798/2" value="2K2"/>
+<part name="R2" library="UPX_Port_Adapter" library_urn="urn:adsk.eagle:library:37570774" deviceset="RCL_R-US_" device="R0603" package3d_urn="urn:adsk.eagle:package:37570798/2" value="2K2"/>
+<part name="R3" library="UPX_Port_Adapter" library_urn="urn:adsk.eagle:library:37570774" deviceset="RCL_R-US_" device="R0603" package3d_urn="urn:adsk.eagle:package:37570798/2" value="2K2"/>
+<part name="R4" library="UPX_Port_Adapter" library_urn="urn:adsk.eagle:library:37570774" deviceset="RCL_R-US_" device="R0603" package3d_urn="urn:adsk.eagle:package:37570798/2" value="2K2"/>
+<part name="JP2" library="UPX_Port_Adapter" library_urn="urn:adsk.eagle:library:37570774" deviceset="PINHEAD2_PINHD-2X20*?:1" device="/90" package3d_urn="urn:adsk.eagle:package:37570800/2"/>
+<part name="J12" library="UPX_Port_Adapter" library_urn="urn:adsk.eagle:library:37570774" deviceset="SM04B-GHS-TB_LF__SN_-_SM04B-GHS-TB(LF)(SN)-" device="" package3d_urn="urn:adsk.eagle:package:37570805/2"/>
+<part name="U$9" library="UPX_Port_Adapter" library_urn="urn:adsk.eagle:library:37570774" deviceset="PINHEAD-CUSTOM_20X20" device="" package3d_urn="urn:adsk.eagle:package:37570801/1"/>
+<part name="GND11" library="UPX_Port_Adapter" library_urn="urn:adsk.eagle:library:37570774" deviceset="SUPPLY1_GND" device=""/>
+<part name="GND12" library="UPX_Port_Adapter" library_urn="urn:adsk.eagle:library:37570774" deviceset="SUPPLY1_GND" device=""/>
+<part name="GND13" library="UPX_Port_Adapter" library_urn="urn:adsk.eagle:library:37570774" deviceset="SUPPLY1_GND" device=""/>
+<part name="J10" library="UPX_Port_Adapter" library_urn="urn:adsk.eagle:library:37570774" deviceset="SM07B-GHS-TB_LF__SN__SM07B-GHS-TB(LF)(SN)" device="" package3d_urn="urn:adsk.eagle:package:37570803/2"/>
+<part name="J11" library="UPX_Port_Adapter" library_urn="urn:adsk.eagle:library:37570774" deviceset="SM07B-GHS-TB_LF__SN__SM07B-GHS-TB(LF)(SN)" device="" package3d_urn="urn:adsk.eagle:package:37570803/2"/>
+<part name="J13" library="UPX_Port_Adapter" library_urn="urn:adsk.eagle:library:37570774" deviceset="SM04B-GHS-TB_LF__SN_-_SM04B-GHS-TB(LF)(SN)-" device="" package3d_urn="urn:adsk.eagle:package:37570805/2"/>
+<part name="GND14" library="UPX_Port_Adapter" library_urn="urn:adsk.eagle:library:37570774" deviceset="SUPPLY1_GND" device=""/>
+<part name="R5" library="UPX_Port_Adapter" library_urn="urn:adsk.eagle:library:37570774" deviceset="RCL_R-US_" device="R0603" package3d_urn="urn:adsk.eagle:package:37570798/2" value="2K2"/>
+<part name="R6" library="UPX_Port_Adapter" library_urn="urn:adsk.eagle:library:37570774" deviceset="RCL_R-US_" device="R0603" package3d_urn="urn:adsk.eagle:package:37570798/2" value="2K2"/>
 </parts>
 <sheets>
 <sheet>
@@ -3371,4 +3459,21 @@ by exp-lbrs.ulp</description>
 </sheets>
 </schematic>
 </drawing>
+<compatibility>
+<note version="8.2" severity="warning">
+Since Version 8.2, EAGLE supports online libraries. The ids
+of those online libraries will not be understood (or retained)
+with this version.
+</note>
+<note version="8.3" severity="warning">
+Since Version 8.3, EAGLE supports URNs for individual library
+assets (packages, symbols, and devices). The URNs of those assets
+will not be understood (or retained) with this version.
+</note>
+<note version="8.3" severity="warning">
+Since Version 8.3, EAGLE supports the association of 3D packages
+with devices in libraries, schematics, and board files. Those 3D
+packages will not be understood (or retained) with this version.
+</note>
+</compatibility>
 </eagle>
